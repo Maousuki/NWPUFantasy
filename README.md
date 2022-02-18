@@ -3,9 +3,9 @@
 
 ###  操作界面图示
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181806020.jpg)
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807178.jpg)
 
 ### 注意事项
 
@@ -27,9 +27,9 @@
 
 ### 操作界面图示
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807211.jpg)
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807425.jpg)
 
 ## 帮助
 
@@ -39,13 +39,13 @@
 
 ### 操作界面图示
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807755.jpg)
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807429.jpg)
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807294.jpg)
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807102.jpg)
 
 
 
@@ -57,7 +57,7 @@
 
 ### 操作界面图示
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807610.jpg)
 
 ### 注意事项
 
@@ -65,11 +65,11 @@
 
 ## 战斗界面
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807431.jpg)
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807105.jpg)
 
-![img](file:///C:/Users/Krypton/AppData/Local/Temp/msohtmlclip1/01/clip_image028.jpg)
+![img](https://krypton-picbed.oss-cn-chengdu.aliyuncs.com/img/202202181807886.jpg)
 
 ### 功能介绍
 
